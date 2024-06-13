@@ -1,0 +1,12 @@
+C:\Users\HP\source\repos\ProyectoNeptuno\ProyectoNeptuno\bin\Debug\ProyectoNeptuno.exe.config
+C:\Users\HP\source\repos\ProyectoNeptuno\ProyectoNeptuno\bin\Debug\ProyectoNeptuno.exe
+C:\Users\HP\source\repos\ProyectoNeptuno\ProyectoNeptuno\bin\Debug\ProyectoNeptuno.pdb
+C:\Users\HP\source\repos\ProyectoNeptuno\ProyectoNeptuno\obj\Debug\ProyectoNeptuno.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\ProyectoNeptuno\ProyectoNeptuno\obj\Debug\ProyectoNeptuno.Form1.resources
+C:\Users\HP\source\repos\ProyectoNeptuno\ProyectoNeptuno\obj\Debug\ProyectoNeptuno.Form2.resources
+C:\Users\HP\source\repos\ProyectoNeptuno\ProyectoNeptuno\obj\Debug\ProyectoNeptuno.Properties.Resources.resources
+C:\Users\HP\source\repos\ProyectoNeptuno\ProyectoNeptuno\obj\Debug\ProyectoNeptuno.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\ProyectoNeptuno\ProyectoNeptuno\obj\Debug\ProyectoNeptuno.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ProyectoNeptuno\ProyectoNeptuno\obj\Debug\ProyectoNeptuno.exe
+C:\Users\HP\source\repos\ProyectoNeptuno\ProyectoNeptuno\obj\Debug\ProyectoNeptuno.pdb
+C:\Users\HP\source\repos\ProyectoNeptuno\ProyectoNeptuno\obj\Debug\ProyectoNeptuno.Form3.resources

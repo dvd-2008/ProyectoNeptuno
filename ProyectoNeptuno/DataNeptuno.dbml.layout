@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="DataNeptuno">
+  <DataContextMoniker Name="/DataNeptunoDataContext" />
+  <nestedChildShapes>
+    <classShape Id="abf1f3c4-ac75-4963-a134-c7dcb05df901" absoluteBounds="1.875, 1.25, 2, 4.0785139973958326">
+      <DataClassMoniker Name="/DataNeptunoDataContext/Empleados" />
+      <nestedChildShapes>
+        <elementListCompartment Id="bcdc29a2-0d5c-4f7c-b551-d4338ad2badb" absoluteBounds="1.8900000000000001, 1.71, 1.9700000000000002, 3.518513997395833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="c0fe1e75-b4ce-499a-b0fa-1944b3cbec8f" absoluteBounds="4.625, 1.5, 2, 1.3862939453125">
+      <DataClassMoniker Name="/DataNeptunoDataContext/categorias" />
+      <nestedChildShapes>
+        <elementListCompartment Id="571dfc7b-ed71-4ab4-8414-a7391b8d75b9" absoluteBounds="4.64, 1.96, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

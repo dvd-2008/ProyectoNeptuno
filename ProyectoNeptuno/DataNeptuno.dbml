@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="neptuno" Class="DataNeptunoDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=DAVID-HUAMAN\SQLEXPRESS;Initial Catalog=neptuno;Integrated Security=True" SettingsObjectName="ProyectoNeptuno.Properties.Settings" SettingsPropertyName="neptunoConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Empleados" Member="Empleados">
+    <Type Name="Empleados">
+      <Column Name="IdEmpleado" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Apellidos" Type="System.String" DbType="VarChar(20)" CanBeNull="true" />
+      <Column Name="Nombre" Type="System.String" DbType="VarChar(20)" CanBeNull="true" />
+      <Column Name="cargo" Type="System.String" DbType="VarChar(40)" CanBeNull="true" />
+      <Column Name="Tratamiento" Type="System.String" DbType="VarChar(40)" CanBeNull="true" />
+      <Column Name="FechaNacimiento" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="FechaContratacion" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="direccion" Type="System.String" DbType="VarChar(60)" CanBeNull="true" />
+      <Column Name="ciudad" Type="System.String" DbType="VarChar(15)" CanBeNull="true" />
+      <Column Name="region" Type="System.String" DbType="VarChar(15)" CanBeNull="true" />
+      <Column Name="codPostal" Type="System.String" DbType="VarChar(10)" CanBeNull="true" />
+      <Column Name="pais" Type="System.String" DbType="VarChar(15)" CanBeNull="true" />
+      <Column Name="TelDomicilio" Type="System.String" DbType="VarChar(24)" CanBeNull="true" />
+      <Column Name="Extension" Type="System.String" DbType="VarChar(4)" CanBeNull="true" />
+      <Column Name="notas" Type="System.String" DbType="Text" CanBeNull="true" UpdateCheck="Never" />
+      <Column Name="Jefe" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="sueldoBasico" Type="System.Decimal" DbType="Decimal(18,0)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.categorias" Member="categorias">
+    <Type Name="categorias">
+      <Column Name="idcategoria" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="nombrecategoria" Type="System.String" DbType="VarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="descripcion" Type="System.String" DbType="Text" CanBeNull="true" UpdateCheck="Never" />
+    </Type>
+  </Table>
+</Database>
